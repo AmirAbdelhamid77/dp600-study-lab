@@ -1,0 +1,292 @@
+{
+  "generatedAt": "2026-11-19T13:13:15.570Z",
+  "exam": "DP-600",
+  "title": "Implementing Analytics Solutions Using Microsoft Fabric",
+  "blueprint": {
+    "asOf": "2026-10-19",
+    "domains": {
+      "1": {
+        "id": "1",
+        "title": "Maintain a data analytics solution",
+        "weight": "25–30%"
+      },
+      "2": {
+        "id": "2",
+        "title": "Prepare data",
+        "weight": "45–50%"
+      },
+      "3": {
+        "id": "3",
+        "title": "Implement and manage semantic models",
+        "weight": "25–30%"
+      }
+    },
+    "objectives": {
+      "1.1": {
+        "id": "1.1",
+        "domain": "1",
+        "title": "Implement security and governance"
+      },
+      "1.2": {
+        "id": "1.2",
+        "domain": "1",
+        "title": "Maintain the analytics development lifecycle"
+      },
+      "2.1": {
+        "id": "2.1",
+        "domain": "2",
+        "title": "Get data"
+      },
+      "2.2": {
+        "id": "2.2",
+        "domain": "2",
+        "title": "Transform data"
+      },
+      "2.3": {
+        "id": "2.3",
+        "domain": "2",
+        "title": "Query and analyze data"
+      },
+      "3.1": {
+        "id": "3.1",
+        "domain": "3",
+        "title": "Design and build semantic models"
+      },
+      "3.2": {
+        "id": "3.2",
+        "domain": "3",
+        "title": "Optimize enterprise-scale semantic models"
+      }
+    }
+  },
+  "sourcesInspected": [
+    {
+      "path": "amir-portfolio/content/fabric/packs.json",
+      "kind": "pack-metadata",
+      "questions": 27
+    },
+    {
+      "path": "amir-portfolio/content/fabric/index.json",
+      "kind": "question-metadata",
+      "questions": 1264
+    },
+    {
+      "path": "amir-portfolio/content/fabric/cases.json",
+      "kind": "case-studies",
+      "questions": 78
+    },
+    {
+      "path": "amir-portfolio/content/fabric/notes.json",
+      "kind": "study-notes",
+      "questions": 27
+    },
+    {
+      "path": "amir-portfolio/content/fabric/sources.json",
+      "kind": "reference-urls",
+      "questions": 623
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/activator.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/dataflow-gen2.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/delta.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/eventhouse.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/eventstream-windowing.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/howard-dp600.json",
+      "kind": "question-pack",
+      "questions": 120
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/incremental-copy.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/mirroring.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/notebooks-pyspark.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/patrick-dp600.json",
+      "kind": "question-pack",
+      "questions": 30
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/pipelines.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/scd.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/semantic-models-dax.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video06.json",
+      "kind": "question-pack",
+      "questions": 50
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video07.json",
+      "kind": "question-pack",
+      "questions": 36
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video08.json",
+      "kind": "question-pack",
+      "questions": 48
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video09.json",
+      "kind": "question-pack",
+      "questions": 48
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video10.json",
+      "kind": "question-pack",
+      "questions": 48
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video11.json",
+      "kind": "question-pack",
+      "questions": 50
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video12.json",
+      "kind": "question-pack",
+      "questions": 50
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video14.json",
+      "kind": "question-pack",
+      "questions": 96
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video15.json",
+      "kind": "question-pack",
+      "questions": 56
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video16.json",
+      "kind": "question-pack",
+      "questions": 48
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video19.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video20.json",
+      "kind": "question-pack",
+      "questions": 40
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/video21.json",
+      "kind": "question-pack",
+      "questions": 32
+    },
+    {
+      "path": "amir-portfolio/content/fabric/questions/warehouse.json",
+      "kind": "question-pack",
+      "questions": 32
+    },
+    {
+      "path": "amir-portfolio/content/fabric/additions/questions.json",
+      "kind": "consolidated-additions",
+      "questions": 452
+    },
+    {
+      "path": "amir-portfolio/content/fabric/r11/questions.json",
+      "kind": "revised-222",
+      "questions": 222
+    },
+    {
+      "path": "records/dp600-questions-2026-10-25.json",
+      "kind": "source-discussion-bank",
+      "questions": 222
+    }
+  ],
+  "rawCounts": {
+    "packs": 1264,
+    "additions": 452,
+    "r11": 222,
+    "records": 222
+  },
+  "extracted": 1625,
+  "duplicatesRemoved": 232,
+  "byStatus": {
+    "documented": 1361,
+    "missing": 10,
+    "source": 239,
+    "conflict": 5,
+    "verified": 10
+  },
+  "byDomain": {
+    "1": 563,
+    "2": 891,
+    "3": 171
+  },
+  "byObjective": {
+    "1.1": 314,
+    "1.2": 249,
+    "2.1": 492,
+    "2.2": 205,
+    "2.3": 194,
+    "3.1": 117,
+    "3.2": 54
+  },
+  "byType": {
+    "single": 1234,
+    "multi": 239,
+    "controls": 144,
+    "sequence": 8
+  },
+  "flagCounts": {
+    "no-answer": 10,
+    "conflicting-answers": 5,
+    "missing-exhibit": 85,
+    "visual-dependent": 85,
+    "community-disagreement": 4,
+    "key-mismatch": 4,
+    "review-pending": 115,
+    "blocked": 19,
+    "missing-case": 1
+  },
+  "excluded": {
+    "drafts/stark-v2-dp600.json": "1,213 questions; answer key not shipped (gradingEnabled=false), no licence. Excluded from the graded bank.",
+    "drafts/chaturcr48-dp600.json": "71 questions; answer key not shipped. Excluded.",
+    "drafts/warren-dp600.json": "122 questions; answer key not shipped; duplicate of the discussion bank. Excluded.",
+    "drafts/dp600-r18.json": "222 questions; answersShipped=false. Excluded.",
+    "additions PL-300 subset": "80 PL-300 questions; adjacent exam, excluded."
+  }
+}
