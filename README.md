@@ -22,6 +22,15 @@ python -m http.server 8123
 # then open http://127.0.0.1:8123/
 ```
 
+### Live deployment
+
+The app is published with GitHub Pages from the `main` branch:
+
+**https://amirabdelhamid77.github.io/dp600-study-lab/**
+
+To update it, commit and push; Pages rebuilds automatically. The Litware exhibit
+images are bundled under `fabric-additions/` so the deployed copy is self-contained.
+
 Progress, settings, bookmarks and exam history are stored in `localStorage` under
 `dp600-study-lab:v1`. Use **Progress → Export** to keep a JSON backup.
 
